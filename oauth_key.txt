@@ -1,0 +1,14 @@
+ %{created}前Cafe Miyama Bot – 読み書き access by default – 0 users
+Edit Application Settings
+
+    * Consumer key
+      dBySgOAuBtTLaEijsYmxWA
+    * Consumer secret
+      pHsC3M7Ut4lNogGDH4b5UwQK2GQOGw829vBAllKs
+    * フォローをリクエストしました。
+      http://twitter.com/oauth/request_token
+    * Access token URL
+      http://twitter.com/oauth/access_token
+    * Authorize URL
+      http://twitter.com/oauth/authorize *We support hmac-sha1 signatures. We do not support the plaintext signature method.
+

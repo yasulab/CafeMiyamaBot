@@ -7,4 +7,3 @@ handlers:
 - url: /cron/update
   script: main.py
   login: admin
-
